@@ -350,7 +350,7 @@ opacity:1;
 
 input[type="range"]::-webkit-slider-runnable-track {
   width: 100%;
-  height: 8px;
+  height: .3rem;
   cursor: pointer;
   background: linear-gradient(to right, #1db954 50%, #e0e0e0 50%);
 }
@@ -358,7 +358,7 @@ input[type="range"]::-webkit-slider-runnable-track {
 .progress-bar::-webkit-slider-runnable-track{
   background-color:#fff;
   border-radius: 100px;
-  height:0rem;
+  height:.5rem;
   margin:0 0 0rem 0;
   
 }
